@@ -8,4 +8,7 @@ sdfg
 
 zmiana
 
-qq opos
+opos
+zmiana
+z
+konfliktem
