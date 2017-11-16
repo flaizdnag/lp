@@ -8,4 +8,4 @@ sdfg
 
 zmiana
 
-qq
+qq opos
