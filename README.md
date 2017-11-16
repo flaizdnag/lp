@@ -8,6 +8,7 @@ sdfg
 
 zmiana
 
+opos
 zmiana
 z
 konfliktem
